@@ -1,0 +1,8 @@
+prefix=/home/greg/catkin_ws/devel
+
+Name: pioneer_teleop
+Description: Description of pioneer_teleop
+Version: 1.3.0
+Cflags: 
+Libs: -L/home/greg/catkin_ws/devel/lib 
+Requires: 
